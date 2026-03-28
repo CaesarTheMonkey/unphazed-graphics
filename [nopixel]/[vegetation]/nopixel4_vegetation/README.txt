@@ -1,8 +1,0 @@
-REMOVE THESE IF YOU HAVE CONFLICTING FILES
-
-
-DELETE THESE FROM nopixel4_vegetation/stream IF NOT USING ROAD FILES FILES
-bh1_rd2_carpark1.ydr
-
-DELETE THESE FROM nopixel4_vegetation_extra/stream IF NOT USING ROAD FILES FILES
-bh1_rd2_carpark2.ydr
